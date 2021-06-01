@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...
 -->
 
--   🔭 I’m currently a participant at GirlScript Summer of Code
--   🌱 I’m currently learning NodeJS
+-   🔭 I’m looking to collaborate on M-E-N Stack
+-   🌱 I’m currently learning ReactJS
 -   📫 How to reach me: kritisinghal711@gmail.com
 -   😄 Pronouns: She/Her
 
