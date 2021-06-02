@@ -16,7 +16,7 @@
 
 <br>
 
-## 🙋‍♂️ Connect with me
+## 🙋 Connect with me
 
 <br>
 
