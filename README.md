@@ -1,10 +1,13 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Kriti 
 </h1>
 <br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350px">
+
 <!-- - 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ... participant at GirlScript Summer of Code
+https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 -->
 
 -   🔭 I’m looking to collaborate on M-E-N Stack
@@ -14,6 +17,7 @@
 
 <br />
 
+<br>
 <br>
 
 ## 🙋 Connect with me
