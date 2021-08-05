@@ -10,7 +10,7 @@
 https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 -->
 
--   🔭 I’m looking to collaborate on M-E-N Stack
+-   🔭 I’m looking to collaborate on MERN Stack Projects
 -   🌱 I’m currently learning ReactJS
 -   📫 How to reach me: kritisinghal711@gmail.com
 -   😄 Pronouns: She/Her
