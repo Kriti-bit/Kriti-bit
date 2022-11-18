@@ -10,8 +10,8 @@
 https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 -->
 
--   🔭 I’m looking to collaborate on MERN Stack Projects
--   🌱 I’m currently learning ReactJS
+-   🔭 I’m looking to collaborate on Research and MERN Stack Projects
+-   🌱 I’m currently learning AI/ML
 -   📫 How to reach me: kritisinghal711@gmail.com
 -   😄 Pronouns: She/Her
 
@@ -20,7 +20,7 @@ https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 <br>
 <br>
 
-## 🙋 Connect with me
+## 🙋🏻‍♀️ Connect with me
 
 <br>
 
